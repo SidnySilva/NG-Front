@@ -33,7 +33,7 @@ export const LoginBox = () => {
   return (
     <>
       <Form onSubmit={handleSubmit(onSubmitFunction)}>
-        <h1>GN Cash</h1>
+        <h1>NG Cash</h1>
         <h3>Login</h3>
         <div className="inputs">
           <InputBox
